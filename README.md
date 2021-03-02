@@ -1,2 +1,1 @@
-# AI.SE.4
-Group project for employability 
+Branch for all code created for the EV3 brick with relevent files
