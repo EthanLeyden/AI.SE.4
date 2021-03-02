@@ -1,2 +1,2 @@
-# AI.SE.4
-Group project for employability 
+Debugging branch to document all errors found and any changes made during testing
+
