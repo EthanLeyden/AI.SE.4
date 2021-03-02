@@ -1,2 +1,2 @@
 # AI.SE.4
-Employability group project with an EV£ maze finding robot
+Employability group project with an EV3 maze finding robot
