@@ -1,2 +1,2 @@
-Debugging branch to document all errors found and any changes made during testing
-
+# AI.SE.4
+Employability group project with an EV£ maze finding robot
